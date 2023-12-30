@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/bhaskrr/front-end-mentor-newsletter-with-success-message)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://front-end-mentor-newsletter-with-success-message.vercel.app/)
 
 ## My process
 
