@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bhaskrr/front-end-mentor-newsletter-with-success-message)
+- Solution URL: [Github](https://github.com/bhaskrr/front-end-mentor-newsletter-with-success-message)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
